@@ -36,7 +36,7 @@ Welcome to my GitHub profile. I like building, learning, and experimenting with 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&lines=Let's+connect+and+chat!;Find+me+on+the+web...;Always+happy+to+talk+projects+and+ideas." alt="Typing SVG" />
+Let's connect and chat! Find me on the web...
 </p>
 
 <div align="center">
