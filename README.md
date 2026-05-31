@@ -7,52 +7,36 @@ Welcome to my GitHub profile. I like building, learning, and experimenting with 
 
 ---
 
-**Currently I am working on ...**
-
-- <div>
-    ... sharpening my skills, exploring new ideas, and turning small experiments into projects I can share.
-    <br />
-    <strong>Focus:</strong> coding, game/dev experiments, GitHub projects, and learning by building.
-    <br />
-    <br />
-  </div>
-
-- <div>
-    ... keeping this profile alive as a little home base for what I make, what I try, and what I learn along the way.
-    <br />
-    <strong>Find me around:</strong> GitHub, LinkedIn, Gmail, WhatsApp, and itch.io.
-    <br />
-  </div>
-
----
-
 **Languages and Tools:**
 
-<p align="center">
-  <div align="center">
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal"></code>
-  </div>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
+</div>
 
 ---
 
-**GitHub Stats:**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayy-Ay&count_private=true&show_icons=true&theme=dracula&line_height=33" alt="Jared's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayy-Ay&layout=compact&theme=dracula" alt="Jared's top languages">
-</p>
-
----
-
-<p align="center">
-  <i>Let's connect and chat! Find me on the web...</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=520&lines=Let's+connect+and+chat!;Find+me+on+the+web...;Always+happy+to+talk+projects+and+ideas." alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -60,19 +44,4 @@ Welcome to my GitHub profile. I like building, learning, and experimenting with 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo" />
-</div>
-
----
-
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jayy-Ay/Jayy-Ay/output/snake.svg" alt="Snake animation" />
-</p>
-
-<div align="right">
-
-![Profile views](https://komarev.com/ghpvc/?username=Jayy-Ay&style=flat-square&color=1EAEDB)
-[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/Jayy-Ay)
-
 </div>
